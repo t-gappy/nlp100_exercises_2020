@@ -1,2 +1,3 @@
-# nlp_100knocks_2020
-2020 version of natural language processing 100 knocks, answered by t-gappy(@tkgappie)
+# nlp100_exercises_2020
+言語処理100本ノック 2020 by t-gappy(@tkgappie).
+2020 version of natural language processing 100 exercises.
